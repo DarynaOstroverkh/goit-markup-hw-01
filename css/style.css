@@ -158,7 +158,10 @@ a {
 .about-comp-list {
   display: flex;
   align-items: center;
-  gap: 24;
+  gap: 24px;
+}
+.about-comp-item {
+  width: calc((100% - 72px) / 4);
 }
 .about-comp-subtitle {
   font-weight: 500;
@@ -193,6 +196,8 @@ a {
   text-align: center;
   color: #2e2f42;
   margin-bottom: 72px;
+}
+.our-team-item {
 }
 .our-team-picture {
   margin-bottom: 32px;
