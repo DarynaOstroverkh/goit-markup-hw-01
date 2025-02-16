@@ -259,12 +259,12 @@ img {
   border-top: none;
 }
 .our-prtfol-subtitle {
+  margin-bottom: 8px;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  margin-top: 8px;
 }
 .our-prtfol-text {
   font-weight: 400;
