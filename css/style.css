@@ -113,12 +113,11 @@ img {
   margin: 0 auto;
   margin-bottom: 48px;
 }
+
 .hero {
-  background: #2e2f42;
-}
-.hero-content {
   padding-top: 188px;
   padding-bottom: 188px;
+  background: #2e2f42;
 }
 
 .hero-btn {
@@ -264,12 +263,12 @@ img {
   color: #434455;
 }
 /*-----------------footer-------------------*/
+
 .footer {
   background: #2e2f42;
   padding: 100px 0;
 }
-.footer-content {
-}
+
 .footer-content {
 }
 
