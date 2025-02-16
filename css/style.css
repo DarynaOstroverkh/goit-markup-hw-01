@@ -101,11 +101,12 @@ a {
 /*--------hero--------*/
 .hero {
   background: #2e2f42;
+}
+.hero-content {
   padding-top: 188px;
   padding-bottom: 188px;
 }
-.hero-content {
-}
+
 .hero-title {
   font-weight: 700;
   font-size: 56px;
